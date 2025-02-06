@@ -4,7 +4,7 @@ import schemas
 
 app = FastAPI()
 
-host_name = "54.210.27.153"#"172.31.93.81" # IPv4 privada de "MV Bases de Datos"
+host_name = "172.31.92.54"#"172.31.93.81" # IPv4 privada de "MV Bases de Datos"
 port_number = "8005"
 user_name = "root"
 password_db = "utec"
